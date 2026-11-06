@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <!-- Menu -->
+    <string name="menu_title">Tasks (Ahmed Jihad)</string>
+    <string name="menu_birthday">1. Birthday Card</string>
+    <string name="menu_task_done">2. Task Done</string>
+    <string name="menu_quadrant">3. Quadrant</string>
+    <string name="menu_article">4. Article</string>
+    <string name="menu_business_card">5. Business Card</string>
+
+    <!-- 1. Birthday Card -->
+    <string name="birthday_message">Happy Birthday Mohammed!</string>
+    <string name="birthday_signature">From Ahmed</string>
+
+    <!-- 2. Task Done -->
+    <string name="check_mark">✓</string>
+    <string name="task_done_title">All tasks completed</string>
+    <string name="task_done_subtitle">Nice work!</string>
+
+    <!-- 3. Quadrant -->
+    <string name="quad_text_title">Text composable</string>
+    <string name="quad_text_desc">Displays text and follows the recommended Material Design guidelines.</string>
+    <string name="quad_image_title">Image composable</string>
+    <string name="quad_image_desc">Creates a composable that lays out and draws a given Painter class object.</string>
+    <string name="quad_row_title">Row composable</string>
+    <string name="quad_row_desc">A layout composable that places its children in a horizontal sequence.</string>
+    <string name="quad_column_title">Column composable</string>
+    <string name="quad_column_desc">A layout composable that places its children in a vertical sequence.</string>
+
+    <!-- 4. Article -->
+    <string name="article_title">Jetpack Compose tutorial</string>
+    <string name="article_paragraph_1">Jetpack Compose is a modern toolkit for building native Android UI. Compose simplifies and accelerates UI development on Android with less code, powerful tools, and intuitive Kotlin APIs.</string>
+    <string name="article_paragraph_2">In this tutorial, you build a simple UI component with declarative functions. You call Compose functions to say what elements you want and the Compose compiler does the rest.</string>
+
+    <!-- 5. Business Card -->
+    <string name="card_initials">AJ</string>
+    <string name="card_name">Ahmed Jihad</string>
+    <string name="card_job_title">Android Developer</string>
+    <string name="card_phone">📞 +970 59 000 0000</string>
+    <string name="card_social">🔗 @ahmed_jihad</string>
+    <string name="card_email">✉️ ahmed@example.com</string>
+</resources>

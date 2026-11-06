@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="24dp"
+        android:text="@string/menu_title"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/btn_birthday"
+        style="@style/MenuButton"
+        android:text="@string/menu_birthday" />
+
+    <Button
+        android:id="@+id/btn_task_done"
+        style="@style/MenuButton"
+        android:text="@string/menu_task_done" />
+
+    <Button
+        android:id="@+id/btn_quadrant"
+        style="@style/MenuButton"
+        android:text="@string/menu_quadrant" />
+
+    <Button
+        android:id="@+id/btn_article"
+        style="@style/MenuButton"
+        android:text="@string/menu_article" />
+
+    <Button
+        android:id="@+id/btn_business_card"
+        style="@style/MenuButton"
+        android:text="@string/menu_business_card" />
+</LinearLayout>
